@@ -2,8 +2,6 @@
 Nyxzon’s AR/VR adaptive system core — building NyxOS with Nyx for diverse real-world environments
 # Nyxzon – NyxOS with Nyx
 
-# Nyxzon – NyxOS with Nyx
-
 **Current Phase:** Phase 1 – Core Build  
 **Funding Alignment:** Amber Grant + Micro Grants
 
